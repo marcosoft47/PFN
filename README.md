@@ -1,2 +1,3 @@
 # PFN
-Códigos (e similares) feitos durante a matéria PFN (UDESC-CCT)
+Programação Funcional. Haskell. UDESC.
+Não copie os trabalhos pwetty pwease
